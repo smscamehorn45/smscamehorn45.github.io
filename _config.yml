@@ -1,11 +1,11 @@
 # Site settings
 author: Sean Scamehorn
-title: 
+title: Sean's Blog
 header-img: img/home-bg.png
 email: smscamehorn45@gmail.com
 copyright_name: Sean Scamehorn
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Flat Iron Blogs
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  smscamehorn45
